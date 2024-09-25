@@ -4,6 +4,11 @@ Hola, soy un estudiante de QA actualmente estudiando con una beca de Globant. Tr
 ## Contact me
 Estoy abierto a cualquier tipo de colaboración que pueda ayudarme a mejorar mis skills.
 
+## Skils
+- Soy bueno buscando soluciones
+- Tengo muy buen trato con mis compañeros de trabajo
+
+
 ## Technologies
 - Figma
 - html
@@ -14,4 +19,5 @@ Estoy abierto a cualquier tipo de colaboración que pueda ayudarme a mejorar mis
 - PC gaming
 - Juegos de mesa
 - Manga y anime
+
 

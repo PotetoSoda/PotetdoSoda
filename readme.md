@@ -7,3 +7,8 @@ Estoy abierto a cualquier tipo de colaboración que pueda ayudarme a mejorar mis
 - PC gaming
 - Juegos de mesa
 - Manga y anime
+## Technologies
+- Figma
+- html
+- css
+- SQL
